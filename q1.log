@@ -1,8 +1,0 @@
-
-root -2022-07-24 04:02:00,959 - INFO - creating constructor of class which take one argument as comma separated string
-root -2022-07-24 04:02:11,861 - INFO - value of D is 100,150,180
-root -2022-07-24 04:02:11,861 - INFO - value-1 of Q is- 18
-root -2022-07-24 04:02:11,861 - INFO - value-2 of Q is- 22
-root -2022-07-24 04:02:11,861 - INFO - value-3 of Q is- 24
-root -2022-07-24 04:02:11,861 - INFO - Final three results Q for three values of D are- 18,22,24
-root -2022-07-24 04:04:13,811 - INFO - creating constructor of class which take one argument as comma separated string
