@@ -1,0 +1,12 @@
+root -2022-07-24 04:11:16,525 - INFO - creating constructor for this class
+root -2022-07-24 04:11:34,273 - INFO - Entered string is :- hello world and practice makes perfect and hello world again
+root -2022-07-24 04:11:34,273 - INFO - list of words is- ['hello', 'world', 'and', 'practice', 'makes', 'perfect', 'and', 'hello', 'world', 'again']
+root -2022-07-24 04:11:34,273 - INFO - list after removing duplicate words is- ['and', 'hello', 'perfect', 'makes', 'practice', 'world', 'again']
+root -2022-07-24 04:11:34,273 - INFO - string after remove duplicates:- and hello perfect makes practice world again
+root -2022-07-24 04:11:34,273 - INFO - alphanumeric sorted string :- again and hello makes perfect practice world
+root -2022-07-24 04:12:47,096 - INFO - creating constructor for this class
+root -2022-07-24 04:13:07,724 - INFO - Entered string is :- hello world! 123
+root -2022-07-24 04:13:07,724 - INFO - list of words is- ['hello', 'world!', '123']
+root -2022-07-24 04:13:07,724 - INFO - list after removing duplicate words is- ['hello', 'world!', '123']
+root -2022-07-24 04:13:07,725 - INFO - string after remove duplicates:- hello world! 123
+root -2022-07-24 04:13:07,725 - INFO - alphanumeric sorted string :- 123 hello world!
