@@ -1,7 +1,0 @@
-
-root -2022-07-24 04:08:11,538 - INFO - creating constructor for this class
-root -2022-07-24 04:08:15,307 - INFO - words in comma separated order are- without,hello,bag,world
-root -2022-07-24 04:08:15,307 - INFO - list of words is- ['without', 'hello', 'bag', 'world']
-root -2022-07-24 04:08:15,307 - INFO - sorted list of words is- ['bag', 'hello', 'without', 'world']
-root -2022-07-24 04:08:15,307 - INFO - sorted string of words is- bag,hello,without,world
-root -2022-07-24 04:11:07,396 - INFO - creating constructor for this class
