@@ -1,8 +1,0 @@
-
-root -2022-07-24 04:14:31,018 - INFO - creating constructor for this class
-root -2022-07-24 04:14:46,710 - INFO - entered passwords are ABd1234@1,a F1#,2w3E*,2We3345
-root -2022-07-24 04:14:46,710 - INFO - list of entered passwords is- ['ABd1234@1', 'a F1#', '2w3E*', '2We3345']
-root -2022-07-24 04:14:46,710 - INFO - checking lenghth of - ABd1234@1
-root -2022-07-24 04:14:46,711 - INFO - checking validation for - ABd1234@1
-root -2022-07-24 04:14:46,711 - INFO - uppercase-2 , lowercase-1, specialcharacter-1, digits-5
-root -2022-07-24 04:14:46,711 - INFO - ABd1234@1 is valid password
